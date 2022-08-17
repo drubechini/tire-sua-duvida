@@ -1,0 +1,19 @@
+@media(max-width: 500px) {
+    .conteudo {
+        width: 90%;
+        height: 90%;
+        margin-left: 23px;
+    }
+}
+
+@media(max-width: 350px) {
+    #mensagem {
+        width: 300px;
+    }
+}
+
+@media(max-width: 320px) {
+    .conteudo {
+        margin-left: 30px;
+    }
+}

@@ -29,5 +29,5 @@ https://user-images.githubusercontent.com/102995291/185411517-1e03712d-c0a4-4d16
 - primeiro projeto usando JavaScript
 - entendi como usar inner.HTML para mensagem aparecer na tela
 - aprendi sobre Math.random para mostrar respostas aleatórias para o usuário
-- uso de variáveis e função
+- uso de variáveis e funções
 
